@@ -11,4 +11,4 @@ When you want to conduct the image inpainting task, you can directly run the fun
 When you want to conduct the image denoising task, you can directly run the function "LGSR_CS_Demo.m".
 
 
-If you have any question, please connect Dr. Zha Zhiyuan. Email: zhiyuan.zha@ntu.edu.sg.
+If you have any question, please connect Dr. Zha Zhiyuan. Email: zhazhiyuan.mmd@gmail.com.
